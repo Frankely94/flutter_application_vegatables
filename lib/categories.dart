@@ -67,7 +67,7 @@ class _CategoriesState extends State<Categories> {
                       RichText(
                         text: TextSpan(children: <TextSpan>[
                           TextSpan(
-                              text: listItems[index].price + "",
+                              text: listItems[index].price + "\n",
                               style: const TextStyle(fontWeight: FontWeight.bold)),
                           TextSpan(text: " (" + listItems[index].kg + ")")
                         ]),

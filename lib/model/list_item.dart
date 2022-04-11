@@ -85,8 +85,8 @@ ListItem(
       "\$0.69",
       "unit",
       "0XFF64941A",
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's ",
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"),
+      " Lemons are technically berries.",
+      "In 2003, the heaviest lemon ever grown was recorded in Kefar Zeitim, Israel. It weighed 5.265 kg (11 lb 9.7 oz), had a circumference of 74 cm (29 in) and was 35 cm (13.7 in) high. Guinness World Records 2013."),
 
 ListItem(
       "Beetroot",
@@ -269,7 +269,7 @@ ListItem(
       "Watermelon",
       "watermelon.png",
       "\$5.99",
-      "unit",
+      "unt",
       "0XFF64941A",
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's ",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"),

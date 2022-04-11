@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import '../home.dart';
 import 'list_item.dart';
 
 class ProductScreen extends StatelessWidget {
@@ -25,7 +26,11 @@ class ProductScreen extends StatelessWidget {
             IconButton(
               icon: const Icon(Icons.camera),
               color: Colors.white,
-              onPressed: () {},
+              onPressed:  () {
+                        Navigator.push(context, 
+                        MaterialPageRoute(builder: (context) => const Home())
+                        );
+                      },
             ),
           ],
           elevation: 0,
@@ -63,8 +68,8 @@ class ProductScreen extends StatelessWidget {
                             tag: item.name,
                             child: Image(
                               image: AssetImage("assets/imgs/" + item.image),
-                              height: 300.0,
-                              width: 300.0,
+                              height: 200.0,
+                              width: 600.0,
                             ),
                           ),
                         ),
