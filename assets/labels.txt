@@ -21,7 +21,7 @@ jalepeno
 mango
 onion
 pear
-pineapple
+pineapple $3.99 ea
 pomegranate
 potato
 spinach

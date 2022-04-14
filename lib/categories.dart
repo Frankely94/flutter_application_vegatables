@@ -81,7 +81,7 @@ class _CategoriesState extends State<Categories> {
                     image:
                         AssetImage("assets/imgs/" + listItems[index].image),
                     width: 150.0,
-                    height: 150.0,
+                    height: 100.0,
                   ),
                 ),
                 Padding(
@@ -101,7 +101,7 @@ class _CategoriesState extends State<Categories> {
                   color: Colors.black.withOpacity(0.1),
                   padding: const EdgeInsets.symmetric(horizontal: 20.0),
                   child: const Text(
-                    "Some Facts ",
+                    "More Facts ",
                     style: TextStyle(color: Colors.white, fontSize: 12.0),
                   ),
                   onPressed: () {

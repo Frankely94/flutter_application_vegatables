@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class About extends StatelessWidget {
-  const About({Key? key}) : super(key: key);
+class Colaboration extends StatelessWidget {
+  const Colaboration({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -27,7 +27,7 @@ class About extends StatelessWidget {
               child: ClipRRect(
                 borderRadius: BorderRadius.circular(90),
                 child: Image.asset(
-   "assets/imgs/studentone.jpeg"
+   "assets/imgs/profe.jpg"
   ),
                 ),
               ),
@@ -43,45 +43,14 @@ class About extends StatelessWidget {
               child: ClipRRect(
                 borderRadius: BorderRadius.circular(30),
            child: const ListTile(
-            title: Text('Frankely Rodriguez \nComputer Science student at Southern CT State University.'),
+            title: Text('Alaa Sheta \nComputer Science Professor at Southern CT State University.'),
             
           )
                 ),
               ),
             ),
             
-       SliverToBoxAdapter(
-            child: Padding(
-              padding: const EdgeInsets.only(
-                top: 20.0,
-                left: 20,
-                right: 20,
-              ),
-              child: ClipRRect(
-                borderRadius: BorderRadius.circular(90),
-                child: Image.asset(
-   "assets/imgs/studenttwo.png"
-  ),
-                ),
-              ),
-            ),
        
-       SliverToBoxAdapter(
-            child: Padding(
-              padding: const EdgeInsets.only(
-                top: 40.0,
-                left: 20,
-                right: 20,
-              ),
-              child: ClipRRect(
-                borderRadius: BorderRadius.circular(20),
-           child: const ListTile(
-            title: Text('Shellesdren Bhola \nComputer Science student at Southern CT State University.'),
-            
-          )
-                ),
-              ),
-            ),
             
         ],
        

@@ -93,13 +93,13 @@ class _HomeState extends State<Home> {
         ),
       ),
       body: Container(
-        color: const Color.fromARGB(199, 245, 226, 52).withOpacity(0.8),
+        color: const Color.fromARGB(198, 43, 39, 10).withOpacity(0.8),
         padding: const EdgeInsets.symmetric(horizontal: 30, vertical: 10),
         child: Container(
           alignment: Alignment.center,
           padding: const EdgeInsets.all(30),
           decoration: BoxDecoration(
-            color: const Color.fromARGB(255, 126, 203, 236),
+            color: Color.fromARGB(255, 57, 168, 205),
             borderRadius: BorderRadius.circular(30),
           ),
           child: Column(
@@ -131,7 +131,7 @@ class _HomeState extends State<Home> {
                                 'The object is: ${_output[0]['label']} !',
                                 style: const TextStyle(
                                     color: Colors.white,
-                                    fontSize: 15,
+                                    fontSize: 20,
                                     fontWeight: FontWeight.w400),
                               )
                             : Container(),
@@ -141,7 +141,7 @@ class _HomeState extends State<Home> {
                         ),
                          _output != null
                             ? Text(
-                                'It costs : ${_output[0]['']} lb',
+                                'Confidence : ${_output[0]['confidence']}',
                                 style: const TextStyle(
                                     color: Colors.white,
                                     fontSize: 15,

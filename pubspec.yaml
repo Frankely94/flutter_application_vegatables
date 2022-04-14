@@ -22,5 +22,6 @@ flutter:
           - assets/imgs/welcomeimage.jpg
           - assets/imgs/
           - assets/imgs/sidebar.jpg
+          - assets/imgs/profe.jpg
 
   uses-material-design: true

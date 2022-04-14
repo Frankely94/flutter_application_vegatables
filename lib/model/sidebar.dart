@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_application_vegatables/about/about.dart';
+import 'package:flutter_application_vegatables/about/colaboration.dart';
 import 'package:flutter_application_vegatables/about/copyrights.dart';
 
 
@@ -26,7 +27,7 @@ class SideBar extends StatelessWidget {
             title: const Text('Developers'),
             onTap: ()  {
                         Navigator.push(context, 
-                        MaterialPageRoute(builder: (context) => const OnboardingScreen())
+                        MaterialPageRoute(builder: (context) => const About())
                         );
                       },
           ),
@@ -34,7 +35,11 @@ class SideBar extends StatelessWidget {
           ListTile(
             leading: const Icon(Icons.share),
             title: const Text('Colaboration'),
-            onTap: () => null,
+            onTap: ()  {
+                        Navigator.push(context, 
+                        MaterialPageRoute(builder: (context) => const Colaboration())
+                        );
+                      },
           ),
           const Divider(),
           ListTile(
