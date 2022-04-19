@@ -82,6 +82,7 @@ class _HomeState extends State<Home> {
     return Scaffold(
       resizeToAvoidBottomInset: false,
       appBar: AppBar(
+        centerTitle: true,
         backgroundColor: Colors.black,
         title: const Text(
           'Produce Wise',
@@ -100,7 +101,7 @@ class _HomeState extends State<Home> {
           padding: const EdgeInsets.all(30),
           decoration: BoxDecoration(
             color: Color.fromARGB(255, 57, 168, 205),
-            borderRadius: BorderRadius.circular(30),
+            borderRadius: BorderRadius.circular(50),
           ),
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
@@ -131,7 +132,7 @@ class _HomeState extends State<Home> {
                                 'The object is: ${_output[0]['label']} !',
                                 style: const TextStyle(
                                     color: Colors.white,
-                                    fontSize: 20,
+                                    fontSize: 18,
                                     fontWeight: FontWeight.w400),
                               )
                             : Container(),
@@ -166,7 +167,7 @@ class _HomeState extends State<Home> {
                           const EdgeInsets.symmetric(horizontal: 19, vertical: 19),
                       decoration: BoxDecoration(
                           color: const Color(0xFF80C038),
-                          borderRadius: BorderRadius.circular(20)),
+                          borderRadius: BorderRadius.circular(100)),
                       child: const Text(
                         'Take A Photo',
                         style: TextStyle(color: Colors.white, fontSize: 12),
@@ -185,7 +186,7 @@ class _HomeState extends State<Home> {
                           const EdgeInsets.symmetric(horizontal: 19, vertical: 19),
                       decoration: BoxDecoration(
                           color: const Color(0xFF80C038),
-                          borderRadius: BorderRadius.circular(15)),
+                          borderRadius: BorderRadius.circular(100)),
                       child: const Text(
                         'Pick From Gallery',
                         style: TextStyle(color: Colors.white, fontSize: 12),

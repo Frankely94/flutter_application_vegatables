@@ -31,6 +31,7 @@ class WelocomePage extends StatelessWidget {
       resizeToAvoidBottomInset: false,
       drawer: const SideBar(),
       appBar: AppBar(
+        centerTitle: true,
         title: const Text('ProduceWise'),
         backgroundColor: Colors.blueGrey,
           ),

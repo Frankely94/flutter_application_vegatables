@@ -77,7 +77,7 @@ class ProductScreen extends StatelessWidget {
                           padding: EdgeInsets.symmetric(
                               horizontal: 20.0, vertical: 5.0),
                           child: Text(
-                            "Description",
+                            "Did you know?",
                             textAlign: TextAlign.left,
                             style: TextStyle(
                                 color: Colors.white,

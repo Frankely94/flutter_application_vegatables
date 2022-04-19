@@ -1,31 +1,31 @@
-Avocado
-Banana
-Granny-Smith
-Lemon
-Orange
-Red-Delicious
-apple
-beetroot
-bell pepper
-cabbage
-capsicum
-carrot
-cauliflower
-chilli pepper
-corn
-cucumber
-eggplant
-garlic
-ginger
-jalepeno
-mango
-onion
-pear
-pineapple $3.99 ea
-pomegranate
-potato
-spinach
-sweetcorn
-sweetpotato
-tomato
-watermelon
+Avocado $1.99 ea
+Banana $.69 lb
+Granny-Smith $.99 lb
+Lemon $.79 ea
+Orange $1.49 ea
+Red-Delicious $.99 lb
+Apple $1.49 lb
+Beetroot $.99 lb
+Bell pepper $2.99 lb
+Cabbage $.99 lb
+Capsicum $1.99 lb
+Carrot $.89 lb
+Cauliflower $2.99 lb
+Chilli pepper $3.49 lb
+Corn $.69 ea
+Cucumber $.69 ea
+Eggplant $1.99 lb
+Garlic $2.49 lb
+Ginger $1.29 lb
+Jalepeno $1.89 lb
+Mango $.99 ea
+Onion $1.79 lb
+Pear $1.59 lb
+Pineapple $3.99 ea
+Pomegranate $3.99 ea
+Potato $1.29 lb
+Spinach $1.99 ea
+Sweetcorn $4.99 pk
+Sweetpotato $1.99 lb
+Tomato $2.39 lb
+Watermelon $6.99 ea

@@ -1,3 +1,5 @@
+import 'dart:ui';
+
 import 'package:flutter/material.dart';
 
 class Colaboration extends StatelessWidget {
@@ -7,10 +9,11 @@ class Colaboration extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Developers'),
+        centerTitle: true,
+        title: const Text('Colaboration'),
         backgroundColor: Colors.blueGrey,
           ),
-      backgroundColor: const Color.fromARGB(255, 53, 146, 109),
+      backgroundColor: Color.fromARGB(255, 144, 195, 221),
       body: CustomScrollView(
         slivers: [
           // sliver app bar
@@ -25,13 +28,14 @@ class Colaboration extends StatelessWidget {
                 right: 20,
               ),
               child: ClipRRect(
-                borderRadius: BorderRadius.circular(90),
+                borderRadius: BorderRadius.circular(50),
                 child: Image.asset(
    "assets/imgs/profe.jpg"
   ),
                 ),
               ),
             ),
+            
        
        SliverToBoxAdapter(
             child: Padding(
@@ -43,7 +47,8 @@ class Colaboration extends StatelessWidget {
               child: ClipRRect(
                 borderRadius: BorderRadius.circular(30),
            child: const ListTile(
-            title: Text('Alaa Sheta \nComputer Science Professor at Southern CT State University.'),
+            title: Text('Alaa Sheta, Ph.D. \nComputer Science Professor at Southern CT State University. Sheta is also  in charge of CSC400 CAPSTONE for Spring2022 semester at Southern.\n Wihtout his cooperation and support this project could not be possible. Always making sure we undestand every single concept in the project and encouranging us to be the of our knowlget in this final project.', 
+            style: TextStyle(fontStyle: FontStyle.italic, fontSize: 18, height:2)),
             
           )
                 ),

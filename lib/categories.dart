@@ -30,15 +30,16 @@ class _CategoriesState extends State<Categories> {
   Widget _fruitShow() {
     return Container( 
       height: 390.0,
-      margin: const EdgeInsets.only(top: 90.0),
+      margin: const EdgeInsets.only(top: 120.0),
       child: ListView.builder(
           scrollDirection: Axis.horizontal,
           itemCount: listItems.length,
           controller: _controller,
           itemBuilder: (BuildContext context, int index) {
             return Container(
-              margin: const EdgeInsets.only(left: 10.0, right: 10.0, bottom: 20.0),
-              width: 210.0,
+              margin: const EdgeInsets.only(left: 10.0, right: 10.0, bottom: 5.0),
+              width: 310.0,
+              
               decoration: BoxDecoration(
                   color: Color(int.parse(listItems[index].color)),
                   borderRadius: BorderRadius.circular(12.0),

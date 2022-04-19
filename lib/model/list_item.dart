@@ -41,7 +41,7 @@ List<ListItem> listItems = [
       "mango.png",
       "\$1.99",
       "unit",
-      "0XFF64941A",
+      "0XFFF75109",
       "According to Guinness World Records, the heaviest recorded mango weighed 3.435 kg and measured 30.48 cm in length, 49.53 cm in circumference and 17.78 cm in width.  ",
       "The oldest living mango tree is thought to be 300 years old and is found in East Khandesh in Central India. Surprisingly, the ancient plant still produces fruit!"),
   ListItem(
@@ -58,7 +58,7 @@ ListItem(
       "avocado.png",
       "\$2.99",
       "unit",
-      "0XFF64941A",
+      "0XFFDB3503",
       "The word “guacamole” is a derivation of the Aztec word ahuacamolli, which translates loosely to “avocado soup” or “avocado sauce.”",
       "An avocado has more potassium than a banana. Honestly! Avocados have a whopping 975 milligrams of potassium, whereas a banana typically has 544 milligrams."),
 
@@ -67,7 +67,7 @@ ListItem(
       "granny.png",
       "\$1.99",
       "lb",
-      "0XFF64941A",
+      "0XFFF7A314",
       "It is anointed after Maria Smith, who produced the variety from a chance seedling. ",
       "According to the State Department of Education at Idaho, 'Granny Smith' apples have no fats or salt and give 20% of vitamin C, 0.17 oz (5 g) of fiber, and 2% of vitamin A, calcium, and iron."),
 
@@ -76,7 +76,7 @@ ListItem(
       "red.png",
       "\$2.99",
       "lb",
-      "0XFF64941A",
+      "0XFFF75109",
       "Red Delicious apples are one of the most well known commercially grown apples in the United States.",
       "Red Delicious apples were discovered as a chance seedling in 1872 on the Iowa farm of Jesse Hiatt. They were initially marketed under the name Hawkeye until rights to the apple were sold to the Stark Brothers fruit company."),
 ListItem(
@@ -84,7 +84,7 @@ ListItem(
       "lemon.png",
       "\$0.69",
       "unit",
-      "0XFF64941A",
+      "0XFFF7A314",
       " Lemons are technically berries.",
       "In 2003, the heaviest lemon ever grown was recorded in Kefar Zeitim, Israel. It weighed 5.265 kg (11 lb 9.7 oz), had a circumference of 74 cm (29 in) and was 35 cm (13.7 in) high. Guinness World Records 2013."),
 
@@ -93,7 +93,7 @@ ListItem(
       "beet.png",
       "\$1.00",
       "lb",
-      "0XFF64941A",
+      "0XFFDB3503",
       "The Romans considered beetroot an aphrodisiac, possibly because they are a good source of tryptophane, betaine and boron, which affect mood and sex hormones in both men and women.",
       "eetroots are low in calories and rich in fiber, folate (vitamin B9), manganese, potassium, iron, vitamin C and antioxidants.  Although they have the highest sugar level of any vegetable, their glycaemic index score is medium (61 or 64, depending on who you ask) and their glycaemic load is around 5, which means they can be safely consumed by diabetics."),
 ListItem(
@@ -110,7 +110,7 @@ ListItem(
       "cabbage.png",
       "\$0.99",
       "lb",
-      "0XFF64941A",
+      "0XFFF75109",
       "Cabbage is high in dietary fiber, vitamin C, vitamin K, folate, potassium, manganese, vitamin A, thiamin, vitamin B6, calcium and iron.",
       "At the turn of the century, cabbage was thought to be food for poor people. Now it is regarded as one of the most nutritional vegetables and is thought to have strong anti-aging and anti-cancer properties."),
 
@@ -129,7 +129,7 @@ ListItem(
       "cauliflower.png",
       "\$1.99",
       "lb",
-      "0XFF64941A",
+      "0XFFF7A314",
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's ",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"),
 
@@ -139,7 +139,7 @@ ListItem(
       "chilli.png",
       "\$2.99",
       "lb",
-      "0XFF64941A",
+      "0XFFDB3503",
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's ",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"),
 
@@ -156,7 +156,7 @@ ListItem(
       "cucumbers.png",
       "\$0.59",
       "unit",
-      "0XFF64941A",
+      "0XFFF75109",
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's ",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"),
 
@@ -165,7 +165,7 @@ ListItem(
       "eggplant.png",
       "\$1.99",
       "lb",
-      "0XFF64941A",
+      "0XFFF7A314",
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's ",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"),
 
@@ -182,7 +182,7 @@ ListItem(
       "ginger.png",
       "\$0.99",
       "lb",
-      "0XFF64941A",
+      "0XFFDB3503",
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's ",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"),
 ListItem(
@@ -190,7 +190,7 @@ ListItem(
       "jalapeno.png",
       "\$1.49",
       "lb",
-      "0XFF64941A",
+      "0XFFF75109",
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's ",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"),
 ListItem(
@@ -198,7 +198,7 @@ ListItem(
       "onion.png",
       "\$1.29",
       "lb",
-      "0XFF64941A",
+      "0XFFF7A314",
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's ",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"),
 ListItem(
@@ -214,7 +214,7 @@ ListItem(
       "pomegranate.png",
       "\$4.99",
       "lb",
-      "0XFF64941A",
+      "0XFFDB3503",
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's ",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"),
 ListItem(
@@ -222,7 +222,7 @@ ListItem(
       "potato.png",
       "\$1.99",
       "lb",
-      "0XFF64941A",
+      "0XFFF75109",
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's ",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"),
 ListItem(
@@ -230,7 +230,7 @@ ListItem(
       "spinach.png",
       "\$2.99",
       "unit",
-      "0XFF64941A",
+      "0XFFF7A314",
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's ",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"),
 ListItem(
@@ -246,7 +246,7 @@ ListItem(
       "sweetpotato.png",
       "\$2.99",
       "lb",
-      "0XFF64941A",
+      "0XFFDB3503",
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's ",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"),
 ListItem(
@@ -254,7 +254,7 @@ ListItem(
       "tomato.png",
       "\$1.39",
       "lb",
-      "0XFF64941A",
+      "0XFFF75109",
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's ",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"),
 ListItem(
@@ -262,7 +262,7 @@ ListItem(
       "watermelon.png",
       "\$5.99",
       "unt",
-      "0XFF64941A",
+      "0XFFF7A314",
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's ",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"),
 

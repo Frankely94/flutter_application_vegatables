@@ -7,10 +7,11 @@ class About extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        centerTitle: true,
         title: const Text('Developers'),
         backgroundColor: Colors.blueGrey,
           ),
-      backgroundColor: const Color.fromARGB(255, 53, 146, 109),
+      backgroundColor: Color.fromARGB(255, 119, 166, 185),
       body: CustomScrollView(
         slivers: [
           // sliver app bar
@@ -43,7 +44,7 @@ class About extends StatelessWidget {
               child: ClipRRect(
                 borderRadius: BorderRadius.circular(30),
            child: const ListTile(
-            title: Text('Frankely Rodriguez \nComputer Science student at Southern CT State University.'),
+            title: Text('Frankely Rodriguez \nComputer Science student at Southern CT State University. Frankely is currently finishing his Bachelor degree in computer science. This projoect is part of the final requirements to complete his degree'),
             
           )
                 ),

@@ -11,12 +11,13 @@ class HomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Fruit UI',
-      theme: ThemeData(primaryColor: Colors.blue),
+      theme: ThemeData(primaryColor: const Color.fromARGB(255, 1, 13, 21)),
       debugShowCheckedModeBanner: false,
       home: Scaffold(
+        backgroundColor: Color.fromARGB(255, 248, 239, 241),
         resizeToAvoidBottomInset: false,
         appBar: AppBar(
-          backgroundColor: Colors.black,
+          backgroundColor: const Color.fromARGB(255, 84, 145, 198),
           leading: IconButton(
             icon: const Icon(Icons.arrow_back),
             onPressed: () {
